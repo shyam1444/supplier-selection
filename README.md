@@ -46,12 +46,7 @@ This project implements a hybrid model combining **Aspect-Based Sentiment Analys
    cd hybrid-supplier-selection
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Ensure the dataset (`researchdata.xlsx`) is placed in the appropriate directory or update the path in the code.
+2. Ensure the dataset (`researchdata.xlsx`) is placed in the appropriate directory or update the path in the code.
 
 ---
 
@@ -132,6 +127,11 @@ hybrid-supplier-selection/
 1. Integrate lightweight transformer models like BERT for improved cross-domain adaptability.
 2. Expand datasets to include other industries such as healthcare and retail.
 3. Enhance interpretability by incorporating SHAP values to explain fuzzy decisions.
+
+---
+
+## Dataset Link ##
+https://data.mendeley.com/datasets/hwv9ywscwj/1
 
 ---
 
